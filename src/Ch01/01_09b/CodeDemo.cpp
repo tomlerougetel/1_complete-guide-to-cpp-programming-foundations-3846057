@@ -4,7 +4,7 @@
 
 #include <iostream>
 
-int main(){
+int main(){ // This is the main program
     std::cout << "Hi There!" << std::endl;
 
     std::cout << std::endl << std::endl;
